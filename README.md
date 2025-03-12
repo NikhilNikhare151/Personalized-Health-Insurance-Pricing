@@ -10,3 +10,6 @@ Age, Gender, BMI, Smoking Status, Medical Conditions, Annual Premiums.
 * Machine Learning (Gradient Boosting, Regression Models)
 * Data Visualization (Matplotlib, Seaborn)
 * Model Evaluation (MSE, RMSE, R-Squared)
+
+
+🔗 **View the Project Here:** [index.html](https://github.com/NikhilNikhare151/Personalizer Health Insurance Pricing/blob/main/index.html)
