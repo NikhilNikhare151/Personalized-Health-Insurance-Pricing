@@ -1,4 +1,3 @@
-# Personalized-Health-Insurance-Pricing
 # Machine Learning Project | Predicting Health Insurance Premiums
 This project aims to predict personalized health insurance premiums based on customer health profiles. By analyzing risk factors such as age, BMI, smoking habits, and medical history, we built an optimized Gradient Boosting model to estimate premiums with high accuracy.
 # Dataset
@@ -11,5 +10,3 @@ Age, Gender, BMI, Smoking Status, Medical Conditions, Annual Premiums.
 * Data Visualization (Matplotlib, Seaborn)
 * Model Evaluation (MSE, RMSE, R-Squared)
 
-
-🔗 **View the Project Here:** [index.html](https://github.com/NikhilNikhare151/Personalizer Health Insurance Pricing/blob/main/index.html)
